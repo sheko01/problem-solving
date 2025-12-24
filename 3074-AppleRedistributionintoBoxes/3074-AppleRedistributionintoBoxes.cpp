@@ -1,4 +1,4 @@
-// Last updated: 12/24/2025, 6:43:18 PM
+// Last updated: 12/24/2025, 6:43:29 PM
 1class Solution {
 2public:
 3    int minimumBoxes(vector<int>& apple, vector<int>& capacity) {
